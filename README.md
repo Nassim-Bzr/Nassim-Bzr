@@ -1,16 +1,25 @@
-### Hi there 👋
+Hi, I'm Nassim, Real passionate about new technologies, I am looking for a new challenge in Brittany or full remote in order to put into practice and deepen my new skills. I am an open person with an easy sense of contact, which allows me to easily integrate a new team.
 
-<!--
-**Nassim-Bzr/Nassim-Bzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Technical skills
+React redux Netlify git npm html5 css3 PostgreSQL Nodejs Wordpress
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Being learned
+ReactNative TypeScript VueJS
+
+ 
+
+📦 My projects
+📦 Projects	⭐ Stars	📚 Forks	🛎 Issues	📬 Pull requests
+
+ 
+
+🔎 Where to find me
+Github LinkedIn
+
+ 
+
+🙏 Acknowledgments
+This profile readme is greatly inspired by Thomas Guibert's one !
+
