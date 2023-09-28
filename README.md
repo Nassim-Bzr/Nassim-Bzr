@@ -1,7 +1,4 @@
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nassim-bzr)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <h1 align="center">Hi 👋, I'm Bouzerara Nassim</h1>
 <h3 align="center">Real passionate about new technologies, I am looking for a new challenge in Paris or full remote in order to put into practice and deepen my new skills. I am an open person with an easy sense of contact, which allows me to easily integrate a new team.</h3>
 
