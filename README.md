@@ -11,9 +11,10 @@
 - 📫 How to reach me **nassimbzr78@gmail.com**
 
 <p align="center">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nassim-bouzerara" height="30" width="40" />
-
-<a href="https://linkedin.com/in/nassim-bouzerara" target="blank">Connect with me:</a>
+  <a href="https://linkedin.com/in/nassim-bouzerara" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nassim-bouzerara" height="30" width="40" />
+    Connect with me
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
