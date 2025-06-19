@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Bouzerara Nassim</h1>
 <h3 align="center">Real passionate about new technologies, I am looking for a new challenge in Paris or full remote in order to put into practice and deepen my new skills. I am an open person with an easy sense of contact, which allows me to easily integrate a new team.</h3>
 
-- 👨‍💻 All of my projects are available at [https://nassim-port-folio.vercel.app/about](https://nassim-port-folio.vercel.app/about)
+- 👨‍💻 All of my projects are available at [https://nassimbzr-portfolio.fr/](https://nassimbzr-portfolio.fr/)
 
 - 📫 How to reach me **nassimbzr78@gmail.com**
 
